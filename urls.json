@@ -5,218 +5,187 @@
    "id": "v01-uber-instagram",
    "file": "v01-uber-instagram.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/v01-uber-instagram.mp4",
-   "bytes": 998733,
-   "caption": "2 system design questions most candidates miss 👀 Uber's Postgres → MySQL migration + why Instagram stores photos in S3 — did you get both? #systemdesign #techinterview #softwareengineer #codinginterview #faang"
+   "bytes": 998733
   },
   {
    "id": "v02-cache-traps",
    "file": "v02-cache-traps.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/v02-cache-traps.mp4",
-   "bytes": 902308,
-   "caption": "2 system design questions most candidates miss 👀 cache-aside + TTL choices, and why a URL shortener lives or dies on its cache — did you get both? #systemdesign #techinterview #softwareengineer #codinginterview #faang"
+   "bytes": 902308
   },
   {
    "id": "v03-distributed-gotchas",
    "file": "v03-distributed-gotchas.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/v03-distributed-gotchas.mp4",
-   "bytes": 899041,
-   "caption": "2 system design questions most candidates miss 👀 split brain + why microservices can't hardcode IPs — did you get both? #systemdesign #techinterview #softwareengineer #codinginterview #faang"
+   "bytes": 899041
   },
   {
    "id": "v04-storage-internals",
    "file": "v04-storage-internals.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/v04-storage-internals.mp4",
-   "bytes": 855817,
-   "caption": "2 system design questions most candidates miss 👀 LSM trees vs B-trees + why deleting from a vector DB frees no memory — did you get both? #systemdesign #techinterview #softwareengineer #codinginterview #faang"
+   "bytes": 855817
   },
   {
    "id": "v05-scale-tricks",
    "file": "v05-scale-tricks.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/v05-scale-tricks.mp4",
-   "bytes": 834700,
-   "caption": "2 system design questions most candidates miss 👀 Bloom filters at a billion URLs + why Dropbox splits metadata from chunks — did you get both? #systemdesign #techinterview #softwareengineer #codinginterview #faang"
+   "bytes": 834700
   },
   {
    "id": "v06-apis-payments",
    "file": "v06-apis-payments.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/v06-apis-payments.mp4",
-   "bytes": 937631,
-   "caption": "2 system design questions most candidates miss 👀 idempotency + why payments write PENDING before calling the PSP — did you get both? #systemdesign #techinterview #softwareengineer #codinginterview #faang"
+   "bytes": 937631
   },
   {
    "id": "v07-observability",
    "file": "v07-observability.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/v07-observability.mp4",
-   "bytes": 1034625,
-   "caption": "2 system design questions most candidates miss 👀 cardinality explosion + what a tracing span actually is — did you get both? #systemdesign #techinterview #softwareengineer #codinginterview #faang"
+   "bytes": 1034625
   },
   {
    "id": "v08-search-geo",
    "file": "v08-search-geo.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/v08-search-geo.mp4",
-   "bytes": 954216,
-   "caption": "2 system design questions most candidates miss 👀 Elasticsearch vs SQL for search + why Uber runs a Location Service — did you get both? #systemdesign #techinterview #softwareengineer #codinginterview #faang"
+   "bytes": 954216
   },
   {
    "id": "v09-rate-limits",
    "file": "v09-rate-limits.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/v09-rate-limits.mp4",
-   "bytes": 951093,
-   "caption": "2 system design questions most candidates miss 👀 why Redis holds rate-limit counters + the news feed cache model — did you get both? #systemdesign #techinterview #softwareengineer #codinginterview #faang"
+   "bytes": 951093
   },
   {
    "id": "v10-networking",
    "file": "v10-networking.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/v10-networking.mp4",
-   "bytes": 897711,
-   "caption": "2 system design questions most candidates miss 👀 RTT + when NOT to put a CDN in front of your app — did you get both? #systemdesign #techinterview #softwareengineer #codinginterview #faang"
+   "bytes": 897711
   },
   {
    "id": "b01-failure-handling",
    "file": "b01-failure-handling.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/b01-failure-handling.mp4",
-   "bytes": 965655,
-   "caption": "2 system design questions most candidates miss 👀 circuit breakers + what happens when a consumer crashes before acking — did you get both? #systemdesign #techinterview #softwareengineer #codinginterview #faang"
+   "bytes": 965655
   },
   {
    "id": "b02-double-click",
    "file": "b02-double-click.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/b02-double-click.mp4",
-   "bytes": 888622,
-   "caption": "2 system design questions most candidates miss 👀 idempotency keys + what 2PC does when a participant votes NO — did you get both? #systemdesign #techinterview #softwareengineer #codinginterview #faang"
+   "bytes": 888622
   },
   {
    "id": "b03-realtime",
    "file": "b03-realtime.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/b03-realtime.mp4",
-   "bytes": 997333,
-   "caption": "2 system design questions most candidates miss 👀 why chat and ride-sharing use WebSockets instead of polling — did you get both? #systemdesign #techinterview #softwareengineer #codinginterview #faang"
+   "bytes": 997333
   },
   {
    "id": "b04-search-scale",
    "file": "b04-search-scale.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/b04-search-scale.mp4",
-   "bytes": 975531,
-   "caption": "2 system design questions most candidates miss 👀 real-time search index updates + compressing a trie for a billion queries — did you get both? #systemdesign #techinterview #softwareengineer #codinginterview #faang"
+   "bytes": 975531
   },
   {
    "id": "b05-edge-routing",
    "file": "b05-edge-routing.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/b05-edge-routing.mp4",
-   "bytes": 1072397,
-   "caption": "2 system design questions most candidates miss 👀 consistent hashing at the CDN edge + what GeoDNS actually does — did you get both? #systemdesign #techinterview #softwareengineer #codinginterview #faang"
+   "bytes": 1072397
   },
   {
    "id": "b06-limits-tokens",
    "file": "b06-limits-tokens.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/b06-limits-tokens.mp4",
-   "bytes": 878220,
-   "caption": "2 system design questions most candidates miss 👀 token bucket behaviour + why JWTs expire in 15 minutes — did you get both? #systemdesign #techinterview #softwareengineer #codinginterview #faang"
+   "bytes": 878220
   },
   {
    "id": "b07-pipelines-logs",
    "file": "b07-pipelines-logs.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/b07-pipelines-logs.mp4",
-   "bytes": 950016,
-   "caption": "2 system design questions most candidates miss 👀 Kappa vs Lambda architecture + why structured logging wins — did you get both? #systemdesign #techinterview #softwareengineer #codinginterview #faang"
+   "bytes": 950016
   },
   {
    "id": "b08-pagination-ratings",
    "file": "b08-pagination-ratings.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/b08-pagination-ratings.mp4",
-   "bytes": 1055387,
-   "caption": "2 system design questions most candidates miss 👀 cursor vs offset pagination + precomputed aggregate ratings — did you get both? #systemdesign #techinterview #softwareengineer #codinginterview #faang"
+   "bytes": 1055387
   },
   {
    "id": "b09-uploads-indexes",
    "file": "b09-uploads-indexes.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/b09-uploads-indexes.mp4",
-   "bytes": 993211,
-   "caption": "2 system design questions most candidates miss 👀 chunked uploads over 100MB + what a database index really does — did you get both? #systemdesign #techinterview #softwareengineer #codinginterview #faang"
+   "bytes": 993211
   },
   {
    "id": "b10-vectors-workflows",
    "file": "b10-vectors-workflows.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/b10-vectors-workflows.mp4",
-   "bytes": 878587,
-   "caption": "2 system design questions most candidates miss 👀 which recall number should page you at 3am + the worst fit for Temporal — did you get both? #systemdesign #techinterview #softwareengineer #codinginterview #faang"
+   "bytes": 878587
   },
   {
    "id": "c01-patterns",
    "file": "c01-patterns.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/c01-patterns.mp4",
-   "bytes": 847543,
-   "caption": "2 system design questions most candidates miss 👀 the Saga pattern + what the Outbox pattern actually solves — did you get both? #systemdesign #techinterview #softwareengineer #codinginterview #faang"
+   "bytes": 847543
   },
   {
    "id": "c02-mesh-apis",
    "file": "c02-mesh-apis.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/c02-mesh-apis.mp4",
-   "bytes": 943360,
-   "caption": "2 system design questions most candidates miss 👀 sidecar proxies + what GraphQL solves that REST struggles with — did you get both? #systemdesign #techinterview #softwareengineer #codinginterview #faang"
+   "bytes": 943360
   },
   {
    "id": "c03-consistency",
    "file": "c03-consistency.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/c03-consistency.mp4",
-   "bytes": 924270,
-   "caption": "2 system design questions most candidates miss 👀 what a quorum really is + picking a database for financial trading — did you get both? #systemdesign #techinterview #softwareengineer #codinginterview #faang"
+   "bytes": 924270
   },
   {
    "id": "c04-feeds",
    "file": "c04-feeds.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/c04-feeds.mp4",
-   "bytes": 869200,
-   "caption": "2 system design questions most candidates miss 👀 fan-out on write + sharding 500M tweets a day — did you get both? #systemdesign #techinterview #softwareengineer #codinginterview #faang"
+   "bytes": 869200
   },
   {
    "id": "c05-edge-cache",
    "file": "c05-edge-cache.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/c05-edge-cache.mp4",
-   "bytes": 943119,
-   "caption": "2 system design questions most candidates miss 👀 how CDNs cache + designing YouTube's CDN for 100+ countries — did you get both? #systemdesign #techinterview #softwareengineer #codinginterview #faang"
+   "bytes": 943119
   },
   {
    "id": "c06-infra",
    "file": "c06-infra.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/c06-infra.mp4",
-   "bytes": 1020889,
-   "caption": "2 system design questions most candidates miss 👀 what Helm is for + what replaced ZooKeeper in Kafka — did you get both? #systemdesign #techinterview #softwareengineer #codinginterview #faang"
+   "bytes": 1020889
   },
   {
    "id": "c07-ops",
    "file": "c07-ops.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/c07-ops.mp4",
-   "bytes": 1098652,
-   "caption": "2 system design questions most candidates miss 👀 200 dashboards nobody reads + where rate limiting belongs — did you get both? #systemdesign #techinterview #softwareengineer #codinginterview #faang"
+   "bytes": 1098652
   },
   {
    "id": "c08-storage-scale",
    "file": "c08-storage-scale.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/c08-storage-scale.mp4",
-   "bytes": 1085950,
-   "caption": "2 system design questions most candidates miss 👀 metadata for billions of files + cleaning up expired URLs — did you get both? #systemdesign #techinterview #softwareengineer #codinginterview #faang"
+   "bytes": 1085950
   },
   {
    "id": "c09-realtime-collab",
    "file": "c09-realtime-collab.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/c09-realtime-collab.mp4",
-   "bytes": 968404,
-   "caption": "2 system design questions most candidates miss 👀 distributing collaborative sessions + scaling vector query throughput — did you get both? #systemdesign #techinterview #softwareengineer #codinginterview #faang"
+   "bytes": 968404
   },
   {
    "id": "c10-crawl-tickets",
    "file": "c10-crawl-tickets.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/c10-crawl-tickets.mp4",
-   "bytes": 831573,
-   "caption": "2 system design questions most candidates miss 👀 polite crawling at scale + sharding seat inventory — did you get both? #systemdesign #techinterview #softwareengineer #codinginterview #faang"
+   "bytes": 831573
   },
   {
    "id": "score-yourself-7",
    "file": "score-yourself-7.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/score-yourself-7.mp4",
-   "bytes": 3577791,
-   "caption": "score yourself: 7 system design questions 🧠 7/7 = staff · 5-6 = senior · 3-4 = mid — send this to whoever's interviewing this week 👀 #systemdesign #techinterview #softwareengineer #codinginterview #faang"
+   "bytes": 3577791
   }
  ]
 }
