@@ -5,187 +5,187 @@
    "id": "v01-uber-instagram",
    "file": "v01-uber-instagram.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/v01-uber-instagram.mp4",
-   "bytes": 998733
+   "bytes": 1316034
   },
   {
    "id": "v02-cache-traps",
    "file": "v02-cache-traps.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/v02-cache-traps.mp4",
-   "bytes": 902308
+   "bytes": 1219609
   },
   {
    "id": "v03-distributed-gotchas",
    "file": "v03-distributed-gotchas.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/v03-distributed-gotchas.mp4",
-   "bytes": 899041
+   "bytes": 1216342
   },
   {
    "id": "v04-storage-internals",
    "file": "v04-storage-internals.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/v04-storage-internals.mp4",
-   "bytes": 855817
+   "bytes": 1173118
   },
   {
    "id": "v05-scale-tricks",
    "file": "v05-scale-tricks.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/v05-scale-tricks.mp4",
-   "bytes": 834700
+   "bytes": 1152001
   },
   {
    "id": "v06-apis-payments",
    "file": "v06-apis-payments.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/v06-apis-payments.mp4",
-   "bytes": 937631
+   "bytes": 1254932
   },
   {
    "id": "v07-observability",
    "file": "v07-observability.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/v07-observability.mp4",
-   "bytes": 1034625
+   "bytes": 1351926
   },
   {
    "id": "v08-search-geo",
    "file": "v08-search-geo.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/v08-search-geo.mp4",
-   "bytes": 954216
+   "bytes": 1271517
   },
   {
    "id": "v09-rate-limits",
    "file": "v09-rate-limits.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/v09-rate-limits.mp4",
-   "bytes": 951093
+   "bytes": 1268394
   },
   {
    "id": "v10-networking",
    "file": "v10-networking.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/v10-networking.mp4",
-   "bytes": 897711
+   "bytes": 1215012
   },
   {
    "id": "b01-failure-handling",
    "file": "b01-failure-handling.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/b01-failure-handling.mp4",
-   "bytes": 965655
+   "bytes": 1282956
   },
   {
    "id": "b02-double-click",
    "file": "b02-double-click.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/b02-double-click.mp4",
-   "bytes": 888622
+   "bytes": 1205923
   },
   {
    "id": "b03-realtime",
    "file": "b03-realtime.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/b03-realtime.mp4",
-   "bytes": 997333
+   "bytes": 1314634
   },
   {
    "id": "b04-search-scale",
    "file": "b04-search-scale.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/b04-search-scale.mp4",
-   "bytes": 975531
+   "bytes": 1292832
   },
   {
    "id": "b05-edge-routing",
    "file": "b05-edge-routing.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/b05-edge-routing.mp4",
-   "bytes": 1072397
+   "bytes": 1389698
   },
   {
    "id": "b06-limits-tokens",
    "file": "b06-limits-tokens.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/b06-limits-tokens.mp4",
-   "bytes": 878220
+   "bytes": 1195521
   },
   {
    "id": "b07-pipelines-logs",
    "file": "b07-pipelines-logs.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/b07-pipelines-logs.mp4",
-   "bytes": 950016
+   "bytes": 1267317
   },
   {
    "id": "b08-pagination-ratings",
    "file": "b08-pagination-ratings.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/b08-pagination-ratings.mp4",
-   "bytes": 1055387
+   "bytes": 1372688
   },
   {
    "id": "b09-uploads-indexes",
    "file": "b09-uploads-indexes.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/b09-uploads-indexes.mp4",
-   "bytes": 993211
+   "bytes": 1310512
   },
   {
    "id": "b10-vectors-workflows",
    "file": "b10-vectors-workflows.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/b10-vectors-workflows.mp4",
-   "bytes": 878587
+   "bytes": 1195888
   },
   {
    "id": "c01-patterns",
    "file": "c01-patterns.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/c01-patterns.mp4",
-   "bytes": 847543
+   "bytes": 1164844
   },
   {
    "id": "c02-mesh-apis",
    "file": "c02-mesh-apis.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/c02-mesh-apis.mp4",
-   "bytes": 943360
+   "bytes": 1260661
   },
   {
    "id": "c03-consistency",
    "file": "c03-consistency.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/c03-consistency.mp4",
-   "bytes": 924270
+   "bytes": 1241571
   },
   {
    "id": "c04-feeds",
    "file": "c04-feeds.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/c04-feeds.mp4",
-   "bytes": 869200
+   "bytes": 1160565
   },
   {
    "id": "c05-edge-cache",
    "file": "c05-edge-cache.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/c05-edge-cache.mp4",
-   "bytes": 943119
+   "bytes": 1260420
   },
   {
    "id": "c06-infra",
    "file": "c06-infra.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/c06-infra.mp4",
-   "bytes": 1020889
+   "bytes": 1338190
   },
   {
    "id": "c07-ops",
    "file": "c07-ops.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/c07-ops.mp4",
-   "bytes": 1098652
+   "bytes": 1415953
   },
   {
    "id": "c08-storage-scale",
    "file": "c08-storage-scale.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/c08-storage-scale.mp4",
-   "bytes": 1085950
+   "bytes": 1403251
   },
   {
    "id": "c09-realtime-collab",
    "file": "c09-realtime-collab.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/c09-realtime-collab.mp4",
-   "bytes": 968404
+   "bytes": 1285705
   },
   {
    "id": "c10-crawl-tickets",
    "file": "c10-crawl-tickets.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/c10-crawl-tickets.mp4",
-   "bytes": 831573
+   "bytes": 1148874
   },
   {
    "id": "score-yourself-7",
    "file": "score-yourself-7.mp4",
    "url": "https://hyperfocusedengineer.github.io/sda-promos/v/score-yourself-7.mp4",
-   "bytes": 3577791
+   "bytes": 5063097
   }
  ]
 }
